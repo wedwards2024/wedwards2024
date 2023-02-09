@@ -1,4 +1,4 @@
-### Welcome! I am a novice learning to use python to bolster my research around migration/refugee policy in the U.S. Say hello!
+### Welcome! I am a Master's candidate in Internaional Affairs Candidate at Columbia's School of International and Political Affairs. I am learning python to bolster my research around migration/refugee policy in the U.S. Say hello!
 
 <!--
 **wedwards2024/wedwards2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
